@@ -87,3 +87,37 @@ No README do seu repositório, inclua:
 ## 💬 Conclusão
 
 Vibe Coding é sobre clareza, curiosidade e criatividade, não sobre perfeição técnica. O verdadeiro objetivo aqui é aprender a pensar junto com a IA, transformando ideias em conceitos reais e enxergando a tecnologia como uma extensão do seu raciocínio criativo. Cada interação é um experimento, quanto mais clara for sua intenção, mais surpreendente será o resultado.
+
+# 💸 Vibe Finance — App de Organização de Finanças Pessoais
+> **Projeto de IA Generativa: Conceito de MVP e Vibe Coding (Desafio DIO & Microsoft)**
+
+## 📖 1. Resumo do Conceito
+O **Vibe Finance** é um assistente financeiro inteligente que elimina a barreira da entrada manual de dados. Em vez de preencher formulários chatos, o usuário registra seus gastos através de uma **interface de chat natural**. Utilizando o conceito de "Atrito Zero", o app processa a fala ou texto, categoriza o gasto automaticamente e oferece insights em tempo real, transformando a gestão financeira em uma conversa simples.
+
+---
+
+## 🎯 2. Prompt Final (PRD - Product Requirements Document)
+Este foi o briefing estratégico (PRD simplificado) utilizado para guiar as IAs (**Copilot** para refinamento e **Lovable** para prototipação):
+
+```text
+# Contexto
+Persona: Gerente de Produto e Arquiteto de Software.
+Tarefa: Criar um plano de MVP para um WebApp de Finanças Pessoais via Chat.
+
+# Problema
+A complexidade de entrada manual em apps tradicionais causa abandono por parte de usuários iniciantes.
+
+# Público-Alvo
+Pessoas que buscam praticidade e iniciantes em educação financeira.
+
+# Funcionalidades-Chave (Escopo do MVP)
+1. Registro via Chat: Extração de valor, item e categoria de frases naturais (NLP).
+2. Categorização Inteligente: Classificação automática (Essencial, Lazer, Investimento).
+3. Dashboards Minimalistas: Gráficos de saúde financeira gerados sob demanda no chat.
+4. Agente "Coach": Consultor proativo que sugere economias baseadas no histórico.
+5. Sistema de Metas: Acompanhamento visual de objetivos (Ex: Reserva de Emergência).
+
+# Entregável Esperado
+- Fluxo de 3 telas principais (Home/Chat, Relatórios, Configuração de Metas).
+- Guia de estilo visual (Clean, tons de verde esmeralda e grafite).
+- Plano de validação inicial para os primeiros 30 dias.
